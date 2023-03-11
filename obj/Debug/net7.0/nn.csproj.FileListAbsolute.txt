@@ -1,0 +1,15 @@
+C:\Users\Murat\Desktop\nn\bin\Debug\net7.0\nn.exe
+C:\Users\Murat\Desktop\nn\bin\Debug\net7.0\nn.deps.json
+C:\Users\Murat\Desktop\nn\bin\Debug\net7.0\nn.runtimeconfig.json
+C:\Users\Murat\Desktop\nn\bin\Debug\net7.0\nn.dll
+C:\Users\Murat\Desktop\nn\bin\Debug\net7.0\nn.pdb
+C:\Users\Murat\Desktop\nn\obj\Debug\net7.0\nn.csproj.AssemblyReference.cache
+C:\Users\Murat\Desktop\nn\obj\Debug\net7.0\nn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat\Desktop\nn\obj\Debug\net7.0\nn.AssemblyInfoInputs.cache
+C:\Users\Murat\Desktop\nn\obj\Debug\net7.0\nn.AssemblyInfo.cs
+C:\Users\Murat\Desktop\nn\obj\Debug\net7.0\nn.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\nn\obj\Debug\net7.0\nn.dll
+C:\Users\Murat\Desktop\nn\obj\Debug\net7.0\refint\nn.dll
+C:\Users\Murat\Desktop\nn\obj\Debug\net7.0\nn.pdb
+C:\Users\Murat\Desktop\nn\obj\Debug\net7.0\nn.genruntimeconfig.cache
+C:\Users\Murat\Desktop\nn\obj\Debug\net7.0\ref\nn.dll
